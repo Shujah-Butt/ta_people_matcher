@@ -63,14 +63,13 @@ ta_people_matcher/
 │   ├── test_normalizer.py
 │   └── test_matcher.py
 │
+├── .gitignore
+├── README.md
 ├── app.py
 ├── matcher.py
-├── models.py
 ├── normalizer.py
-├── utils.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
+
 ```
 
 ---
