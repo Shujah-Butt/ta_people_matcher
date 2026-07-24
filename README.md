@@ -60,6 +60,7 @@ ta_people_matcher/
 │   └── employees.csv
 │
 ├── tests/
+|   ├── __init__.py
 │   ├── test_normalizer.py
 │   └── test_matcher.py
 │
