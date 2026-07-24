@@ -1,3 +1,24 @@
+# TechAbout Python Assessment
+
+Applicant/Employee Matching Tool
+
+This project was developed for the TechAbout Python Developer Assessment.
+
+The application normalizes HR records and safely matches applicants with employees using:
+
+- CNIC
+- Email
+- Phone Number
+- Name Similarity (fallback)
+
+The tool generates:
+
+- matches.csv
+- unmatched_applicants.csv
+- conflicts.csv
+- summary.json
+
+
 # ta_people_matcher
 
 A lightweight Python tool that helps HR teams safely match applicant records with employee records during HR system migration.
