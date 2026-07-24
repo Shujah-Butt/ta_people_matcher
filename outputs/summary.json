@@ -1,0 +1,10 @@
+{
+    "total_applicants": 10,
+    "matched": 8,
+    "unmatched": 1,
+    "conflicts": 1,
+    "high_confidence": 6,
+    "medium_confidence": 1,
+    "low_confidence": 1,
+    "generated_at": "2026-07-24T23:31:12"
+}

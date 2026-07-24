@@ -1,0 +1,9 @@
+applicant_id,employee_id,confidence,reason
+A001,E101,High,Exact Email Match
+A002,E102,High,Exact Email Match
+A003,E103,High,Exact Email Match
+A004,E104,High,Exact Email Match
+A005,E105,Medium,Exact Phone Match
+A006,E106,High,Exact Email Match
+A007,E107,High,Exact Email Match
+A008,E108,Low,Name Similarity (100.0%)

@@ -1,1 +1,2 @@
-
+applicant_id,employee_id,confidence,match_reason,conflict_reason
+A009,E108,Low,Name Similarity (100.0%),Employee matched to multiple applicants
