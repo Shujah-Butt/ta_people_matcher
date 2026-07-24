@@ -1,0 +1,10 @@
+employee_id,employee_name,personal_email,cell_number,cnic,status,date_of_joining
+E101,Ali Khan,ALI.KHAN@gmail.com,+923001234567,3520212345678,Active,2024-03-01
+E102,Sara Ahmed,sara.ahmed@gmail.com,03111234567,3520212345679,Active,2024-03-05
+E103,Muhammad Z Khan,mzkhan@gmail.com,03221112233,,Active,2024-04-01
+E104,Ayesha Malik,ayesha@gmail.com,+923045556666,3520212345670,Active,2024-04-05
+E105,Hassan Raza,hassan.hr@gmail.com,+923087778888,3520212345699,Inactive,2023-10-01
+E106,Fatima Noor,fatima@gmail.com,03009998888,3520212345681,Active,2024-05-01
+E107,Usman Tariq,usman@gmail.com,+923009998888,3520212345682,Active,2024-05-10
+E108,Ahmed Ali,duplicate@gmail.com,03051112222,3520212345683,Active,2024-05-15
+E109,Ahmed Ali,duplicate@gmail.com,03051112222,3520212345698,Active,2024-05-20

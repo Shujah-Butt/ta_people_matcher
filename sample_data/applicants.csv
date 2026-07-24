@@ -1,1 +1,11 @@
-
+applicant_id,full_name,email,phone,cnic,city,role,applied_on
+A001,Ali Khan,ali.khan@gmail.com,03001234567,35202-1234567-8,Lahore,Python Developer,2025-01-15
+A002,Sara Ahmed,Sara.Ahmed@gmail.com,+92-311-1234567,3520212345679,Karachi,Data Analyst,2025-01-16
+A003,Muhammad Zia Khan,mzkhan@gmail.com,923221112233,,Lahore,Data Scientist,2025-01-18
+A004,Ayesha Malik,ayesha@gmail.com,03045556666,35202 1234567 0,Islamabad,HR Executive,2025-01-19
+A005,Hassan Raza,hassan@gmail.com,03087778888,,Faisalabad,Backend Developer,2025-01-20
+A006,Fatima Noor,fatima@gmail.com,+923009998888,3520212345681,Lahore,QA Engineer,2025-01-22
+A007,Usman Tariq,usman@gmail.com,03009998888,3520212345682,Rawalpindi,Python Developer,2025-01-23
+A008,Ahmed Ali,duplicate@gmail.com,03051112222,3520212345683,Lahore,Data Analyst,2025-01-24
+A009,Ahmed Ali,duplicate@gmail.com,03051112222,,Lahore,Data Analyst,2025-01-24
+A010,Maryam Shah,maryam@gmail.com,03117778899,3520212345684,Multan,Business Analyst,2025-01-25
